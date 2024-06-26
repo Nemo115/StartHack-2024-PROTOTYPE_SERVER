@@ -1,14 +1,16 @@
 {
-    "Groups":[
+    "groups":[
         {
             "GroupID": 0,
             "GroupName": "group1",
-            "Members": ["0","1","2","3"]
+            "Members": ["0","1","2","3"],
+            "RatedQualities":["Effort", "Focus", "Ideas"]
         },
         {
             "GroupID": 1,
             "GroupName": "group2",
-            "Members": ["0","2","5","8","9","11"]
+            "Members": ["4","5","6","7","9","11"],
+            "RatedQualities":["Effort", "Dedication", "Collaboration"]
         }
     ]
 }
