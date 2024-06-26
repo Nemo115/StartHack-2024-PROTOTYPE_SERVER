@@ -9,7 +9,7 @@
         {
             "GroupID": 1,
             "GroupName": "group2",
-            "Members": ["4","5","6","7","9","11"],
+            "Members": ["0","4","5","6","7","9","11"],
             "GroupQualities":["Effort", "Dedication", "Collaboration"]
         }
     ]
