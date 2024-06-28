@@ -33,22 +33,28 @@
                 1,
                 2,
                 3,
-                9
+                9,
+                5
             ],
             "Dedication": [
-                8
+                8,
+                5
             ],
             "Effort": [
                 5,
-                9
+                9,
+                5,
+                5
             ],
             "Focus": [
-                8
+                8,
+                5
             ],
             "Ideas": [
                 1,
                 2,
                 3,
+                5,
                 5
             ],
             "Leader": [
@@ -68,23 +74,29 @@
         "Name": "Paul Newman",
         "Ratings": {
             "Collaboration": [
-                6
+                6,
+                5
             ],
             "Dedication": [
-                7
+                7,
+                5
             ],
             "Effort": [
                 4,
-                6
+                6,
+                5,
+                5
             ],
             "Focus": [
-                4
+                4,
+                5
             ],
             "Ideas": [
                 1,
                 2,
                 3,
-                3
+                3,
+                5
             ],
             "Leader": [
                 1,
@@ -103,16 +115,19 @@
         "Name": "Lucy Kent",
         "Ratings": {
             "Effort": [
-                7
+                7,
+                5
             ],
             "Focus": [
+                5,
                 5
             ],
             "Ideas": [
                 1,
                 2,
                 3,
-                6
+                6,
+                5
             ],
             "Leader": [
                 1,
