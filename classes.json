@@ -1,0 +1,14 @@
+{
+    "0":{
+        "ID":"0",
+        "ClassName":"Math Class",
+        "Teacher":"James Harding",
+        "Groups":["0", "1"]
+    },
+    "1":{
+        "ID":"1",
+        "ClassName":"English Class",
+        "Teacher":"Susan Wolf",
+        "Groups":["2", "3"]
+    }
+}

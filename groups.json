@@ -1,16 +1,14 @@
 {
-    "groups":[
-        {
-            "GroupID": "0",
-            "GroupName": "group1",
-            "Members": ["0","1","2","3"],
-            "GroupQualities":["Effort", "Focus", "Ideas"]
-        },
-        {
-            "GroupID": "1",
-            "GroupName": "group2",
-            "Members": ["0","2", "1"],
-            "GroupQualities":["Effort", "Dedication", "Collaboration"]
-        }
-    ]
+    "0":{
+        "GroupID": "0",
+        "GroupName": "group1",
+        "Members": ["0","1","2","3"],
+        "GroupQualities":["Effort", "Focus", "Ideas"]
+    },
+    "1":{
+        "GroupID": "1",
+        "GroupName": "group2",
+        "Members": ["0","2", "1"],
+        "GroupQualities":["Effort", "Dedication", "Collaboration"]
+    }
 }
