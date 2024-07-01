@@ -1,14 +1,26 @@
 {
     "0":{
         "GroupID": "0",
-        "GroupName": "group1",
+        "GroupName": "Apple Group",
         "Members": ["0","1","2","3"],
         "GroupQualities":["Effort", "Focus", "Ideas"]
     },
     "1":{
         "GroupID": "1",
-        "GroupName": "group2",
+        "GroupName": "Banana Group",
         "Members": ["0","2", "1"],
+        "GroupQualities":["Effort", "Dedication", "Collaboration"]
+    },
+    "2":{
+        "GroupID": "2",
+        "GroupName": "Cucumber Group",
+        "Members": ["0","2", "1"],
+        "GroupQualities":["Effort", "Dedication", "Collaboration"]
+    },
+    "3":{
+        "GroupID": "3",
+        "GroupName": "Pancake Group",
+        "Members": ["0","2", "1", "4"],
         "GroupQualities":["Effort", "Dedication", "Collaboration"]
     }
 }
