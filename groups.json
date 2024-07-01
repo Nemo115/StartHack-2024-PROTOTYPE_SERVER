@@ -58,7 +58,7 @@
         ]
     },
     "4": {
-        "GroupID": 4,
+        "GroupID": "4",
         "GroupName": "Cake Group",
         "GroupQualities": [
             "Focus",
