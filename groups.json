@@ -56,19 +56,5 @@
             "1",
             "4"
         ]
-    },
-    "4": {
-        "GroupID": "4",
-        "GroupName": "Cake Group",
-        "GroupQualities": [
-            "Focus",
-            "Reliability",
-            "Communication"
-        ],
-        "Members": [
-            "1",
-            "4",
-            "2"
-        ]
     }
 }
