@@ -1,26 +1,74 @@
 {
-    "0":{
+    "0": {
         "GroupID": "0",
         "GroupName": "Apple Group",
-        "Members": ["0","1","2","3"],
-        "GroupQualities":["Effort", "Focus", "Ideas"]
+        "GroupQualities": [
+            "Effort",
+            "Focus",
+            "Ideas"
+        ],
+        "Members": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ]
     },
-    "1":{
+    "1": {
         "GroupID": "1",
         "GroupName": "Banana Group",
-        "Members": ["0","2", "1"],
-        "GroupQualities":["Effort", "Dedication", "Collaboration"]
+        "GroupQualities": [
+            "Effort",
+            "Dedication",
+            "Collaboration"
+        ],
+        "Members": [
+            "0",
+            "2",
+            "1"
+        ]
     },
-    "2":{
+    "2": {
         "GroupID": "2",
         "GroupName": "Cucumber Group",
-        "Members": ["0","2", "1"],
-        "GroupQualities":["Effort", "Dedication", "Collaboration"]
+        "GroupQualities": [
+            "Effort",
+            "Dedication",
+            "Collaboration"
+        ],
+        "Members": [
+            "0",
+            "2",
+            "1"
+        ]
     },
-    "3":{
+    "3": {
         "GroupID": "3",
         "GroupName": "Pancake Group",
-        "Members": ["0","2", "1", "4"],
-        "GroupQualities":["Effort", "Dedication", "Collaboration"]
+        "GroupQualities": [
+            "Effort",
+            "Dedication",
+            "Collaboration"
+        ],
+        "Members": [
+            "0",
+            "2",
+            "1",
+            "4"
+        ]
+    },
+    "4": {
+        "GroupID": 4,
+        "GroupName": "Cake Group",
+        "GroupQualities": [
+            "Focus",
+            "Reliability",
+            "Communication"
+        ],
+        "Members": [
+            "1",
+            "4",
+            "2"
+        ]
     }
 }
