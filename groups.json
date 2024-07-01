@@ -56,5 +56,19 @@
             "1",
             "4"
         ]
+    },
+    "4": {
+        "GroupID": "4",
+        "GroupName": "Coke Group",
+        "GroupQualities": [
+            "Time Management",
+            "Motivation",
+            "Initiative"
+        ],
+        "Members": [
+            "1",
+            "2",
+            "4"
+        ]
     }
 }
