@@ -70,5 +70,19 @@
             "2",
             "4"
         ]
+    },
+    "5": {
+        "GroupID": "5",
+        "GroupName": "qwe",
+        "GroupQualities": [
+            "Resilience",
+            "Initiative",
+            "Presentation Skills"
+        ],
+        "Members": [
+            "0",
+            "2",
+            "4"
+        ]
     }
 }
