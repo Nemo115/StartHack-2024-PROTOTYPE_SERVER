@@ -459,5 +459,370 @@
                 0
             ]
         }
+    },
+    "5": {
+        "ID": "5",
+        "Name": "John Cazale",
+        "Ratings": {
+            "Collaboration": [
+            ],
+            "Dedication": [
+            ],
+            "Effort": [
+            ],
+            "Focus": [],
+            "Ideas": [
+            ],
+            "Initiative": [
+            ],
+            "Leader": [
+                1,
+                2,
+                3
+            ],
+            "Motivation": [
+                5,
+                5,
+                5,
+                0
+            ],
+            "Perseverance": [],
+            "Presentation Skills": [
+                5,
+                5
+            ],
+            "Reliability": [],
+            "Resilience": [
+                5,
+                5
+            ],
+            "Teamwork": [
+                1,
+                2,
+                3
+            ],
+            "Time Management": [
+                5,
+                5,
+                5,
+                0
+            ]
+        }
+    },
+    "6": {
+        "ID": "6",
+        "Name": "Klaus Kinski",
+        "Ratings": {
+            "Collaboration": [
+            ],
+            "Dedication": [
+            ],
+            "Effort": [
+            ],
+            "Focus": [],
+            "Ideas": [
+            ],
+            "Initiative": [
+            ],
+            "Leader": [
+                1,
+                2,
+                3
+            ],
+            "Motivation": [
+                5,
+                5,
+                5,
+                0
+            ],
+            "Perseverance": [],
+            "Presentation Skills": [
+                5,
+                5
+            ],
+            "Reliability": [],
+            "Resilience": [
+                5,
+                5
+            ],
+            "Teamwork": [
+                1,
+                2,
+                3
+            ],
+            "Time Management": [
+                5,
+                5,
+                5,
+                0
+            ]
+        }
+    },
+    "7": {
+        "ID": "7",
+        "Name": "Tony Leung",
+        "Ratings": {
+            "Collaboration": [
+            ],
+            "Dedication": [
+            ],
+            "Effort": [
+            ],
+            "Focus": [],
+            "Ideas": [
+            ],
+            "Initiative": [
+            ],
+            "Leader": [
+                1,
+                2,
+                3
+            ],
+            "Motivation": [
+                5,
+                5,
+                5,
+                0
+            ],
+            "Perseverance": [],
+            "Presentation Skills": [
+                5,
+                5
+            ],
+            "Reliability": [],
+            "Resilience": [
+                5,
+                5
+            ],
+            "Teamwork": [
+                1,
+                2,
+                3
+            ],
+            "Time Management": [
+                5,
+                5,
+                5,
+                0
+            ]
+        }
+    },
+    "8": {
+        "ID": "8",
+        "Name": "Wong Kar Wai",
+        "Ratings": {
+            "Collaboration": [
+            ],
+            "Dedication": [
+            ],
+            "Effort": [
+            ],
+            "Focus": [],
+            "Ideas": [
+            ],
+            "Initiative": [
+            ],
+            "Leader": [
+                1,
+                2,
+                3
+            ],
+            "Motivation": [
+                5,
+                5,
+                5,
+                0
+            ],
+            "Perseverance": [],
+            "Presentation Skills": [
+                5,
+                5
+            ],
+            "Reliability": [],
+            "Resilience": [
+                5,
+                5
+            ],
+            "Teamwork": [
+                1,
+                2,
+                3
+            ],
+            "Time Management": [
+                5,
+                5,
+                5,
+                0
+            ]
+        }
+    },
+    "9": {
+        "ID": "9",
+        "Name": "Leslie Cheung",
+        "Ratings": {
+            "Collaboration": [
+            ],
+            "Dedication": [
+            ],
+            "Effort": [
+            ],
+            "Focus": [],
+            "Ideas": [
+            ],
+            "Initiative": [
+            ],
+            "Leader": [
+                1,
+                2,
+                3
+            ],
+            "Motivation": [
+                5,
+                5,
+                5,
+                0
+            ],
+            "Perseverance": [],
+            "Presentation Skills": [
+                5,
+                5
+            ],
+            "Reliability": [],
+            "Resilience": [
+                5,
+                5
+            ],
+            "Teamwork": [
+                1,
+                2,
+                3
+            ],
+            "Time Management": [
+                5,
+                5,
+                5,
+                0
+            ]
+        }
+    },
+    "10": {
+        "ID": "10",
+        "Name": "John Woo",
+        "Ratings": {
+            "Collaboration": [
+            ],
+            "Dedication": [
+            ],
+            "Effort": [
+            ],
+            "Focus": [],
+            "Ideas": [
+            ],
+            "Initiative": [
+            ],
+            "Leader": [
+                1,
+                2,
+                3
+            ],
+            "Motivation": [
+                5,
+                5,
+                5,
+                0
+            ],
+            "Perseverance": [],
+            "Presentation Skills": [
+                5,
+                5
+            ],
+            "Reliability": [],
+            "Resilience": [
+                5,
+                5
+            ],
+            "Teamwork": [
+                1,
+                2,
+                3
+            ],
+            "Time Management": [
+                5,
+                5,
+                5,
+                0
+            ]
+        }
+    },
+    "11": {
+        "ID": "11",
+        "Name": "Michael Madsen",
+        "Ratings": {
+            "Collaboration": [
+            ],
+            "Dedication": [
+            ],
+            "Effort": [
+            ],
+            "Focus": [],
+            "Ideas": [
+            ],
+            "Initiative": [
+            ],
+            "Leader": [
+                1,
+                2,
+                3
+            ],
+            "Motivation": [
+
+                0
+            ],
+            "Perseverance": [],
+            "Presentation Skills": [
+            ],
+            "Reliability": [],
+            "Resilience": [
+            ],
+            "Teamwork": [
+            ],
+            "Time Management": [
+            ]
+        }
+    },
+    "12": {
+        "ID": "12",
+        "Name": "Gordon Ryan",
+        "Ratings": {
+            "Collaboration": [
+            ],
+            "Dedication": [
+            ],
+            "Effort": [
+            ],
+            "Focus": [],
+            "Ideas": [
+            ],
+            "Initiative": [
+            ],
+            "Leader": [
+                1
+            ],
+            "Motivation": [
+            ],
+            "Perseverance": [],
+            "Presentation Skills": [
+            ],
+            "Reliability": [],
+            "Resilience": [
+            ],
+            "Teamwork": [
+                1,
+                2,
+                3
+            ],
+            "Time Management": [
+            ]
+        }
     }
 }
