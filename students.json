@@ -236,6 +236,8 @@
                 5,
                 5
             ],
+            "Perseverance": [],
+            "Reliability": [],
             "Teamwork": [
                 1,
                 2,
@@ -388,6 +390,8 @@
                 2,
                 3
             ],
+            "Perseverance": [],
+            "Reliability": [],
             "Teamwork": [
                 1,
                 2,
@@ -424,6 +428,7 @@
                 5,
                 5
             ],
+            "Focus": [],
             "Ideas": [
                 1,
                 2,
@@ -445,9 +450,11 @@
                 5,
                 5
             ],
+            "Perseverance": [],
             "Presentation Skills": [
                 5
             ],
+            "Reliability": [],
             "Resilience": [
                 5
             ],

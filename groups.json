@@ -84,5 +84,19 @@
             "2",
             "4"
         ]
+    },
+    "6": {
+        "GroupID": "6",
+        "GroupName": "Patriots Group",
+        "GroupQualities": [
+            "Focus",
+            "Reliability",
+            "Perseverance"
+        ],
+        "Members": [
+            "4",
+            "3",
+            "1"
+        ]
     }
 }
