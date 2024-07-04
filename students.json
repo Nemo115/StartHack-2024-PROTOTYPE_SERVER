@@ -320,6 +320,7 @@
         "Name": "Michael Madsen",
         "Ratings": {
             "Collaboration": [],
+            "Cooperation": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [],
@@ -387,6 +388,7 @@
                 5,
                 9
             ],
+            "Cooperation": [],
             "Dedication": [
                 7,
                 5,
@@ -447,6 +449,7 @@
                 5
             ],
             "Presentation Skills": [],
+            "Reliability": [],
             "Resilience": [],
             "Teamwork": [
                 1,
@@ -798,6 +801,7 @@
         "Name": "Leslie Cheung",
         "Ratings": {
             "Collaboration": [],
+            "Cooperation": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [],

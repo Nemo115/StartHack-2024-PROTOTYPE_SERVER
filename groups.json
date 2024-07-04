@@ -43,6 +43,20 @@
             "5"
         ]
     },
+    "11": {
+        "GroupID": "11",
+        "GroupName": "Second History Group",
+        "GroupQualities": [
+            "Cooperation",
+            "Reliability",
+            "Motivation"
+        ],
+        "Members": [
+            "9",
+            "2",
+            "11"
+        ]
+    },
     "2": {
         "GroupID": "2",
         "GroupName": "Cucumber Group",
