@@ -169,7 +169,8 @@
                 5
             ],
             "Cooperation": [
-                0
+                0,
+                5
             ],
             "Dedication": [
                 8,
@@ -220,10 +221,12 @@
                 9,
                 9,
                 5,
-                1
+                1,
+                5
             ],
             "Humility": [
-                0
+                0,
+                5
             ],
             "Ideas": [
                 1,
@@ -329,6 +332,7 @@
             "Dedication": [],
             "Effort": [],
             "Focus": [
+                5,
                 5
             ],
             "Ideas": [],
@@ -339,7 +343,8 @@
                 3
             ],
             "Leadership": [
-                7
+                7,
+                5
             ],
             "Motivation": [
                 0
@@ -349,6 +354,7 @@
             "Reliability": [],
             "Resilience": [],
             "Teamwork": [
+                5,
                 5
             ],
             "Time Management": []
@@ -362,10 +368,12 @@
             "Dedication": [],
             "Effort": [],
             "Focus": [
-                8
+                8,
+                5
             ],
             "Humility": [
-                8
+                8,
+                5
             ],
             "Ideas": [],
             "Initiative": [],
@@ -373,23 +381,27 @@
                 1
             ],
             "Leadership": [
-                8
+                8,
+                5
             ],
             "Motivation": [],
             "Perseverance": [
-                10
+                10,
+                5
             ],
             "Presentation Skills": [],
             "Reliability": [],
             "Resilience": [],
             "Respect": [
-                9
+                9,
+                5
             ],
             "Teamwork": [
                 1,
                 2,
                 3,
-                10
+                10,
+                5
             ],
             "Time Management": []
         }
@@ -488,6 +500,7 @@
         "Name": "Lucy Kent",
         "Ratings": {
             "Cooperation": [
+                5,
                 5
             ],
             "Effort": [
@@ -517,9 +530,11 @@
                 9,
                 3,
                 5,
+                5,
                 5
             ],
             "Humility": [
+                5,
                 5
             ],
             "Ideas": [
@@ -588,7 +603,8 @@
             ],
             "Focus": [],
             "Humility": [
-                0
+                0,
+                5
             ],
             "Ideas": [
                 1,
@@ -618,7 +634,8 @@
                 5
             ],
             "Perseverance": [
-                10
+                10,
+                5
             ],
             "Presentation Skills": [
                 5,
@@ -632,7 +649,8 @@
                 5
             ],
             "Respect": [
-                0
+                0,
+                5
             ],
             "Teamwork": [
                 1,
@@ -702,7 +720,8 @@
             "Effort": [],
             "Focus": [],
             "Humility": [
-                10
+                10,
+                5
             ],
             "Ideas": [],
             "Initiative": [],
@@ -718,7 +737,8 @@
                 0
             ],
             "Perseverance": [
-                10
+                10,
+                5
             ],
             "Presentation Skills": [
                 5,
@@ -730,7 +750,8 @@
                 5
             ],
             "Respect": [
-                9
+                9,
+                5
             ],
             "Teamwork": [
                 1,
@@ -845,7 +866,8 @@
             "Effort": [],
             "Focus": [],
             "Humility": [
-                10
+                10,
+                5
             ],
             "Ideas": [],
             "Initiative": [],
@@ -861,7 +883,8 @@
                 0
             ],
             "Perseverance": [
-                10
+                10,
+                5
             ],
             "Presentation Skills": [
                 5,
@@ -874,7 +897,8 @@
                 5
             ],
             "Respect": [
-                1
+                1,
+                5
             ],
             "Teamwork": [
                 1,
