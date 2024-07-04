@@ -256,6 +256,7 @@
                 2,
                 3
             ],
+            "Leadership": [],
             "Motivation": [
                 7,
                 5,
@@ -265,6 +266,7 @@
                 5
             ],
             "Perseverance": [],
+            "Problem Solving": [],
             "Reliability": [],
             "Teamwork": [
                 1,
@@ -286,6 +288,7 @@
         "Name": "John Woo",
         "Ratings": {
             "Collaboration": [],
+            "Communication": [],
             "Cooperation": [],
             "Dedication": [],
             "Effort": [],
@@ -318,6 +321,7 @@
                 5,
                 5
             ],
+            "Problem Solving": [],
             "Reliability": [],
             "Resilience": [
                 5,

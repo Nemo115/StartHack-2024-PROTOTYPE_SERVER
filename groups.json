@@ -90,6 +90,19 @@
             "8"
         ]
     },
+    "14": {
+        "GroupID": "14",
+        "GroupName": "Science 1",
+        "GroupQualities": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "Members": [
+            "1",
+            "10"
+        ]
+    },
     "2": {
         "GroupID": "2",
         "GroupName": "Cucumber Group",
