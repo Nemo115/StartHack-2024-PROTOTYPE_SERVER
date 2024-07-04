@@ -168,7 +168,9 @@
                 5,
                 5
             ],
-            "Cooperation": [],
+            "Cooperation": [
+                0
+            ],
             "Dedication": [
                 8,
                 5,
@@ -217,9 +219,12 @@
                 5,
                 9,
                 9,
-                5
+                5,
+                1
             ],
-            "Humility": [],
+            "Humility": [
+                0
+            ],
             "Ideas": [
                 1,
                 2,
@@ -323,7 +328,9 @@
             "Cooperation": [],
             "Dedication": [],
             "Effort": [],
-            "Focus": [],
+            "Focus": [
+                5
+            ],
             "Ideas": [],
             "Initiative": [],
             "Leader": [
@@ -331,7 +338,9 @@
                 2,
                 3
             ],
-            "Leadership": [],
+            "Leadership": [
+                7
+            ],
             "Motivation": [
                 0
             ],
@@ -339,7 +348,9 @@
             "Presentation Skills": [],
             "Reliability": [],
             "Resilience": [],
-            "Teamwork": [],
+            "Teamwork": [
+                5
+            ],
             "Time Management": []
         }
     },
@@ -350,24 +361,35 @@
             "Collaboration": [],
             "Dedication": [],
             "Effort": [],
-            "Focus": [],
-            "Humility": [],
+            "Focus": [
+                8
+            ],
+            "Humility": [
+                8
+            ],
             "Ideas": [],
             "Initiative": [],
             "Leader": [
                 1
             ],
-            "Leadership": [],
+            "Leadership": [
+                8
+            ],
             "Motivation": [],
-            "Perseverance": [],
+            "Perseverance": [
+                10
+            ],
             "Presentation Skills": [],
             "Reliability": [],
             "Resilience": [],
-            "Respect": [],
+            "Respect": [
+                9
+            ],
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                10
             ],
             "Time Management": []
         }
@@ -465,7 +487,9 @@
         "ID": "3",
         "Name": "Lucy Kent",
         "Ratings": {
-            "Cooperation": [],
+            "Cooperation": [
+                5
+            ],
             "Effort": [
                 7,
                 5,
@@ -492,9 +516,12 @@
                 5,
                 9,
                 3,
+                5,
                 5
             ],
-            "Humility": [],
+            "Humility": [
+                5
+            ],
             "Ideas": [
                 1,
                 2,
@@ -560,7 +587,9 @@
                 5
             ],
             "Focus": [],
-            "Humility": [],
+            "Humility": [
+                0
+            ],
             "Ideas": [
                 1,
                 2,
@@ -588,7 +617,9 @@
                 0,
                 5
             ],
-            "Perseverance": [],
+            "Perseverance": [
+                10
+            ],
             "Presentation Skills": [
                 5,
                 5,
@@ -600,7 +631,9 @@
                 5,
                 5
             ],
-            "Respect": [],
+            "Respect": [
+                0
+            ],
             "Teamwork": [
                 1,
                 2,
@@ -668,7 +701,9 @@
             "Dedication": [],
             "Effort": [],
             "Focus": [],
-            "Humility": [],
+            "Humility": [
+                10
+            ],
             "Ideas": [],
             "Initiative": [],
             "Leader": [
@@ -682,7 +717,9 @@
                 5,
                 0
             ],
-            "Perseverance": [],
+            "Perseverance": [
+                10
+            ],
             "Presentation Skills": [
                 5,
                 5
@@ -692,7 +729,9 @@
                 5,
                 5
             ],
-            "Respect": [],
+            "Respect": [
+                9
+            ],
             "Teamwork": [
                 1,
                 2,
@@ -805,7 +844,9 @@
             "Dedication": [],
             "Effort": [],
             "Focus": [],
-            "Humility": [],
+            "Humility": [
+                10
+            ],
             "Ideas": [],
             "Initiative": [],
             "Leader": [
@@ -819,7 +860,9 @@
                 5,
                 0
             ],
-            "Perseverance": [],
+            "Perseverance": [
+                10
+            ],
             "Presentation Skills": [
                 5,
                 5
@@ -830,7 +873,9 @@
                 5,
                 5
             ],
-            "Respect": [],
+            "Respect": [
+                1
+            ],
             "Teamwork": [
                 1,
                 2,
