@@ -28,6 +28,21 @@
             "1"
         ]
     },
+    "10": {
+        "GroupID": "10",
+        "GroupName": "History Group 1",
+        "GroupQualities": [
+            "Teamwork",
+            "Focus",
+            "Problem Solving"
+        ],
+        "Members": [
+            "9",
+            "8",
+            "7",
+            "5"
+        ]
+    },
     "2": {
         "GroupID": "2",
         "GroupName": "Cucumber Group",

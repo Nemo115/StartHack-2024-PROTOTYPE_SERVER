@@ -25,28 +25,26 @@
     },
     "2": {
         "ClassName": "Science Class",
-        "Groups": [
-        ],
+        "Groups": [],
         "ID": "2",
         "Teacher": ""
     },
     "3": {
         "ClassName": "Computer Class",
-        "Groups": [
-        ],
+        "Groups": [],
         "ID": "3",
         "Teacher": "Terry Davis"
     },
     "4": {
         "ClassName": "Philosophy Class",
-        "Groups": [
-        ],
+        "Groups": [],
         "ID": "4",
         "Teacher": "Marcus Aurelius"
     },
     "5": {
         "ClassName": "History Class",
         "Groups": [
+            "10"
         ],
         "ID": "5",
         "Teacher": ""
