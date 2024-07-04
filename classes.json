@@ -27,7 +27,8 @@
     "2": {
         "ClassName": "Science Class",
         "Groups": [
-            "14"
+            "14",
+            "15"
         ],
         "ID": "2",
         "Teacher": ""

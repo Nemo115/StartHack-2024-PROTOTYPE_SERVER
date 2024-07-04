@@ -103,6 +103,20 @@
             "10"
         ]
     },
+    "15": {
+        "GroupID": "15",
+        "GroupName": "Science 2",
+        "GroupQualities": [
+            "Initiative",
+            "Time Management",
+            "Resilience"
+        ],
+        "Members": [
+            "0",
+            "10",
+            "2"
+        ]
+    },
     "2": {
         "GroupID": "2",
         "GroupName": "Cucumber Group",
