@@ -8,7 +8,7 @@
             "5"
         ],
         "ID": "0",
-        "Teacher": "James Harding"
+        "Teacher": "G. H. Hardy"
     },
     "1": {
         "ClassName": "English Class",
@@ -19,5 +19,33 @@
         ],
         "ID": "1",
         "Teacher": "Susan Wolf"
+    },
+    "2": {
+        "ClassName": "Science Class",
+        "Groups": [
+        ],
+        "ID": "2",
+        "Teacher": ""
+    },
+    "3": {
+        "ClassName": "Computer Class",
+        "Groups": [
+        ],
+        "ID": "3",
+        "Teacher": "Terry Davis"
+    },
+    "4": {
+        "ClassName": "Philosophy Class",
+        "Groups": [
+        ],
+        "ID": "4",
+        "Teacher": "Marcus Aurelius"
+    },
+    "5": {
+        "ClassName": "History Class",
+        "Groups": [
+        ],
+        "ID": "5",
+        "Teacher": ""
     }
 }
