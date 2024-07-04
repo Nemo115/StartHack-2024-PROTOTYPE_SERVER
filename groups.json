@@ -159,6 +159,20 @@
             "12"
         ]
     },
+    "19": {
+        "GroupID": "19",
+        "GroupName": "Callicles Group",
+        "GroupQualities": [
+            "Humility",
+            "Self Awareness",
+            "Ideas"
+        ],
+        "Members": [
+            "0",
+            "10",
+            "12"
+        ]
+    },
     "2": {
         "GroupID": "2",
         "GroupName": "Cucumber Group",
