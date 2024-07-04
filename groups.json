@@ -114,5 +114,19 @@
             "9",
             "6"
         ]
+    },
+    "8": {
+        "GroupID": "8",
+        "GroupName": "test group",
+        "GroupQualities": [
+            "Teamwork",
+            "Leadership",
+            "Focus"
+        ],
+        "Members": [
+            "10",
+            "11",
+            "12"
+        ]
     }
 }
