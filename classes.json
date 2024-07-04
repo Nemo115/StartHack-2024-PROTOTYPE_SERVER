@@ -36,7 +36,9 @@
     },
     "3": {
         "ClassName": "Computer Class",
-        "Groups": [],
+        "Groups": [
+            "17"
+        ],
         "ID": "3",
         "Teacher": "Terry Davis"
     },

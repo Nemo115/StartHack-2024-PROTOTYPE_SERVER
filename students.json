@@ -396,6 +396,8 @@
         "Name": "Gordon Ryan",
         "Ratings": {
             "Collaboration": [],
+            "Communication": [],
+            "Cooperation": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [
@@ -720,6 +722,8 @@
         "Name": "John Cazale",
         "Ratings": {
             "Collaboration": [],
+            "Communication": [],
+            "Cooperation": [],
             "Creativity": [],
             "Dedication": [],
             "Effort": [],
@@ -768,6 +772,7 @@
         "Ratings": {
             "Collaboration": [],
             "Communication": [],
+            "Cooperation": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [],
@@ -829,6 +834,8 @@
         "Name": "Tony Leung",
         "Ratings": {
             "Collaboration": [],
+            "Communication": [],
+            "Cooperation": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [],
