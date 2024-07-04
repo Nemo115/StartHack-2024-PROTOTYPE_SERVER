@@ -286,8 +286,12 @@
             "Cooperation": [],
             "Dedication": [],
             "Effort": [],
-            "Focus": [],
-            "Humility": [],
+            "Focus": [
+                10
+            ],
+            "Humility": [
+                8
+            ],
             "Ideas": [],
             "Initiative": [],
             "Leader": [
@@ -295,14 +299,18 @@
                 2,
                 3
             ],
-            "Leadership": [],
+            "Leadership": [
+                10
+            ],
             "Motivation": [
                 5,
                 5,
                 5,
                 0
             ],
-            "Perseverance": [],
+            "Perseverance": [
+                10
+            ],
             "Presentation Skills": [
                 5,
                 5
@@ -312,11 +320,14 @@
                 5,
                 5
             ],
-            "Respect": [],
+            "Respect": [
+                9
+            ],
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                10
             ],
             "Time Management": [
                 5,
@@ -337,6 +348,7 @@
             "Focus": [
                 5,
                 5,
+                5,
                 5
             ],
             "Ideas": [],
@@ -349,6 +361,7 @@
             "Leadership": [
                 7,
                 5,
+                5,
                 5
             ],
             "Motivation": [
@@ -359,6 +372,7 @@
             "Reliability": [],
             "Resilience": [],
             "Teamwork": [
+                5,
                 5,
                 5,
                 5
@@ -620,7 +634,8 @@
             "Humility": [
                 0,
                 5,
-                5
+                5,
+                1
             ],
             "Ideas": [
                 1,
@@ -652,7 +667,8 @@
             "Perseverance": [
                 10,
                 5,
-                5
+                5,
+                4
             ],
             "Presentation Skills": [
                 5,
@@ -668,7 +684,8 @@
             "Respect": [
                 0,
                 5,
-                5
+                5,
+                8
             ],
             "Teamwork": [
                 1,
@@ -740,7 +757,8 @@
             "Humility": [
                 10,
                 5,
-                5
+                5,
+                0
             ],
             "Ideas": [],
             "Initiative": [],
@@ -758,7 +776,8 @@
             "Perseverance": [
                 10,
                 5,
-                5
+                5,
+                8
             ],
             "Presentation Skills": [
                 5,
@@ -772,7 +791,8 @@
             "Respect": [
                 9,
                 5,
-                5
+                5,
+                0
             ],
             "Teamwork": [
                 1,
@@ -889,7 +909,8 @@
             "Humility": [
                 10,
                 5,
-                5
+                5,
+                8
             ],
             "Ideas": [],
             "Initiative": [],
@@ -907,7 +928,8 @@
             "Perseverance": [
                 10,
                 5,
-                5
+                5,
+                8
             ],
             "Presentation Skills": [
                 5,
@@ -922,7 +944,8 @@
             "Respect": [
                 1,
                 5,
-                5
+                5,
+                10
             ],
             "Teamwork": [
                 1,
