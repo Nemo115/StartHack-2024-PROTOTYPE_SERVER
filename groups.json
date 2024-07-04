@@ -75,6 +75,21 @@
             "1"
         ]
     },
+    "13": {
+        "GroupID": "13",
+        "GroupName": "New History Group",
+        "GroupQualities": [
+            "Focus",
+            "Organisation",
+            "Creativity"
+        ],
+        "Members": [
+            "0",
+            "11",
+            "5",
+            "8"
+        ]
+    },
     "2": {
         "GroupID": "2",
         "GroupName": "Cucumber Group",

@@ -31,6 +31,7 @@
                 5,
                 5
             ],
+            "Creativity": [],
             "Dedication": [
                 10,
                 0,
@@ -125,6 +126,7 @@
                 2,
                 3
             ],
+            "Organisation": [],
             "Presentation Skills": [
                 10,
                 0,
@@ -345,6 +347,7 @@
             "Collaboration": [],
             "Communication": [],
             "Cooperation": [],
+            "Creativity": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [
@@ -369,6 +372,7 @@
             "Motivation": [
                 0
             ],
+            "Organisation": [],
             "Perseverance": [],
             "Presentation Skills": [],
             "Reliability": [],
@@ -711,6 +715,7 @@
         "Name": "John Cazale",
         "Ratings": {
             "Collaboration": [],
+            "Creativity": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [],
@@ -727,6 +732,7 @@
                 5,
                 0
             ],
+            "Organisation": [],
             "Perseverance": [],
             "Presentation Skills": [
                 5,
@@ -864,6 +870,7 @@
         "Ratings": {
             "Collaboration": [],
             "Communication": [],
+            "Creativity": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [],
@@ -880,6 +887,7 @@
                 5,
                 0
             ],
+            "Organisation": [],
             "Perseverance": [],
             "Presentation Skills": [
                 5,
