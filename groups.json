@@ -145,6 +145,20 @@
             "12"
         ]
     },
+    "18": {
+        "GroupID": "18",
+        "GroupName": "Computing Group 2",
+        "GroupQualities": [
+            "Initiative",
+            "Motivation",
+            "Time Management"
+        ],
+        "Members": [
+            "0",
+            "10",
+            "12"
+        ]
+    },
     "2": {
         "GroupID": "2",
         "GroupName": "Cucumber Group",
