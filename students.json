@@ -150,6 +150,7 @@
                 0,
                 0
             ],
+            "Cooperation": [],
             "Dedication": [
                 8,
                 5,
@@ -192,6 +193,7 @@
                 9,
                 9
             ],
+            "Humility": [],
             "Ideas": [
                 1,
                 2,
@@ -240,6 +242,7 @@
         "Name": "John Woo",
         "Ratings": {
             "Collaboration": [],
+            "Cooperation": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [],
@@ -429,6 +432,7 @@
         "ID": "3",
         "Name": "Lucy Kent",
         "Ratings": {
+            "Cooperation": [],
             "Effort": [
                 7,
                 5,
@@ -455,6 +459,7 @@
                 9,
                 3
             ],
+            "Humility": [],
             "Ideas": [
                 1,
                 2,
