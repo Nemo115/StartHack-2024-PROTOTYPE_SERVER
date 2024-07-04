@@ -168,6 +168,7 @@
                 5,
                 5
             ],
+            "Communication": [],
             "Cooperation": [
                 0,
                 5,
@@ -342,6 +343,7 @@
         "Name": "Michael Madsen",
         "Ratings": {
             "Collaboration": [],
+            "Communication": [],
             "Cooperation": [],
             "Dedication": [],
             "Effort": [],
@@ -448,6 +450,7 @@
                 5,
                 9
             ],
+            "Communication": [],
             "Cooperation": [],
             "Dedication": [
                 7,
@@ -525,6 +528,7 @@
         "ID": "3",
         "Name": "Lucy Kent",
         "Ratings": {
+            "Communication": [],
             "Cooperation": [
                 5,
                 5,
@@ -586,6 +590,7 @@
                 2,
                 3
             ],
+            "Motivation": [],
             "Perseverance": [],
             "Reliability": [],
             "Teamwork": [
@@ -751,6 +756,7 @@
         "Name": "Klaus Kinski",
         "Ratings": {
             "Collaboration": [],
+            "Communication": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [],
@@ -857,6 +863,7 @@
         "Name": "Wong Kar Wai",
         "Ratings": {
             "Collaboration": [],
+            "Communication": [],
             "Dedication": [],
             "Effort": [],
             "Focus": [],
@@ -902,6 +909,7 @@
         "Name": "Leslie Cheung",
         "Ratings": {
             "Collaboration": [],
+            "Communication": [],
             "Cooperation": [],
             "Dedication": [],
             "Effort": [],

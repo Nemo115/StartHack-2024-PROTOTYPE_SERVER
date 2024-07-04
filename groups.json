@@ -57,6 +57,24 @@
             "11"
         ]
     },
+    "12": {
+        "GroupID": "12",
+        "GroupName": "New Group",
+        "GroupQualities": [
+            "Teamwork",
+            "Communication",
+            "Motivation"
+        ],
+        "Members": [
+            "8",
+            "9",
+            "6",
+            "3",
+            "2",
+            "11",
+            "1"
+        ]
+    },
     "2": {
         "GroupID": "2",
         "GroupName": "Cucumber Group",
