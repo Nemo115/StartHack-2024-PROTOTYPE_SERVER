@@ -236,6 +236,22 @@
             "4"
         ]
     },
+    "23": {
+        "GroupID": "23",
+        "GroupName": "Computing Group 3",
+        "GroupQualities": [
+            "Teamwork",
+            "Motivation",
+            "Leadership"
+        ],
+        "Members": [
+            "10",
+            "6",
+            "5",
+            "9",
+            "8"
+        ]
+    },
     "3": {
         "GroupID": "3",
         "GroupName": "Pancake Group",
