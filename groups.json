@@ -204,6 +204,22 @@
             "9"
         ]
     },
+    "21": {
+        "GroupID": "21",
+        "GroupName": "Science Group 4",
+        "GroupQualities": [
+            "Leadership",
+            "Cooperation",
+            "Time Management"
+        ],
+        "Members": [
+            "0",
+            "10",
+            "9",
+            "8",
+            "4"
+        ]
+    },
     "3": {
         "GroupID": "3",
         "GroupName": "Pancake Group",
