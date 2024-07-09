@@ -252,6 +252,22 @@
             "8"
         ]
     },
+    "24": {
+        "GroupID": "24",
+        "GroupName": "Computing group 4",
+        "GroupQualities": [
+            "Teamwork",
+            "Problem Solving",
+            "Time Management"
+        ],
+        "Members": [
+            "0",
+            "1",
+            "10",
+            "8",
+            "9"
+        ]
+    },
     "3": {
         "GroupID": "3",
         "GroupName": "Pancake Group",
