@@ -187,6 +187,23 @@
             "1"
         ]
     },
+    "20": {
+        "GroupID": "20",
+        "GroupName": "Socrates Group",
+        "GroupQualities": [
+            "Motivation",
+            "Listening Skills",
+            "Self Awareness"
+        ],
+        "Members": [
+            "0",
+            "10",
+            "8",
+            "7",
+            "6",
+            "9"
+        ]
+    },
     "3": {
         "GroupID": "3",
         "GroupName": "Pancake Group",

@@ -46,7 +46,8 @@
     "4": {
         "ClassName": "Philosophy Class",
         "Groups": [
-            "19"
+            "19",
+            "20"
         ],
         "ID": "4",
         "Teacher": "Marcus Aurelius"
