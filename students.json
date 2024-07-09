@@ -31,7 +31,9 @@
                 5,
                 5
             ],
-            "Cooperation": [],
+            "Cooperation": [
+                5
+            ],
             "Creativity": [],
             "Dedication": [
                 10,
@@ -105,7 +107,8 @@
                 5
             ],
             "Humility": [
-                0
+                0,
+                5
             ],
             "Ideas": [
                 1,
@@ -119,29 +122,37 @@
                 8,
                 10,
                 5,
-                10
+                10,
+                5
             ],
             "Initiative": [
                 9,
                 0,
                 5,
                 10,
-                2
+                2,
+                8,
+                5
             ],
             "Leader": [
                 1,
                 2,
                 3
             ],
-            "Leadership": [],
+            "Leadership": [
+                5
+            ],
             "Listening Skills": [
                 2,
-                2
+                2,
+                5
             ],
             "Motivation": [
                 2,
                 3,
-                9
+                9,
+                5,
+                5
             ],
             "Organisation": [],
             "Presentation Skills": [
@@ -149,26 +160,36 @@
                 0,
                 5
             ],
-            "Problem Solving": [],
+            "Problem Solving": [
+                5
+            ],
             "Resilience": [
                 10,
                 0,
                 5,
-                10
+                10,
+                2
             ],
             "Self Awareness": [
                 10,
                 8,
-                7
+                7,
+                5,
+                5
             ],
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                5
             ],
             "Time Management": [
                 10,
-                6
+                6,
+                7,
+                5,
+                5,
+                5
             ]
         }
     },
@@ -200,10 +221,12 @@
             ],
             "Communication": [
                 10,
-                10
+                10,
+                5
             ],
             "Cooperation": [
                 0,
+                5,
                 5,
                 5,
                 5
@@ -260,10 +283,12 @@
                 1,
                 5,
                 5,
+                5,
                 5
             ],
             "Humility": [
                 0,
+                5,
                 5,
                 5,
                 5
@@ -291,7 +316,8 @@
                 3
             ],
             "Leadership": [
-                10
+                10,
+                5
             ],
             "Motivation": [
                 7,
@@ -304,14 +330,17 @@
             ],
             "Perseverance": [],
             "Problem Solving": [
-                9
+                9,
+                5,
+                5
             ],
             "Reliability": [],
             "Teamwork": [
                 1,
                 2,
                 3,
-                0
+                0,
+                5
             ],
             "Time Management": [
                 9,
@@ -319,6 +348,7 @@
                 5,
                 5,
                 0,
+                5,
                 5
             ]
         }
@@ -404,7 +434,8 @@
             ],
             "Cooperation": [
                 10,
-                4
+                4,
+                5
             ],
             "Creativity": [],
             "Dedication": [],
@@ -415,6 +446,8 @@
                 5,
                 5,
                 6,
+                5,
+                5,
                 5
             ],
             "Ideas": [],
@@ -426,6 +459,7 @@
             ],
             "Leadership": [
                 7,
+                5,
                 5,
                 5,
                 5,
@@ -450,6 +484,8 @@
                 5,
                 10,
                 8,
+                5,
+                5,
                 5
             ],
             "Time Management": []
@@ -468,6 +504,7 @@
                 8,
                 5,
                 5,
+                5,
                 5
             ],
             "Humility": [
@@ -476,13 +513,17 @@
                 5,
                 10,
                 9,
+                5,
+                5,
                 5
             ],
             "Ideas": [
-                8
+                8,
+                5
             ],
             "Initiative": [
-                10
+                10,
+                5
             ],
             "Leader": [
                 1
@@ -491,16 +532,19 @@
                 8,
                 5,
                 5,
+                5,
                 5
             ],
             "Motivation": [
-                0
+                0,
+                5
             ],
             "Perseverance": [
                 10,
                 5,
                 5,
                 10,
+                5,
                 5
             ],
             "Presentation Skills": [],
@@ -511,10 +555,12 @@
                 5,
                 5,
                 8,
+                5,
                 5
             ],
             "Self Awareness": [
-                7
+                7,
+                5
             ],
             "Teamwork": [
                 1,
@@ -523,10 +569,12 @@
                 10,
                 5,
                 5,
+                5,
                 5
             ],
             "Time Management": [
-                1
+                1,
+                5
             ]
         }
     },
@@ -602,7 +650,8 @@
             ],
             "Initiative": [
                 5,
-                9
+                9,
+                5
             ],
             "Leader": [
                 1,
@@ -619,7 +668,8 @@
                 10
             ],
             "Resilience": [
-                10
+                10,
+                5
             ],
             "Teamwork": [
                 1,
@@ -629,7 +679,8 @@
             ],
             "Time Management": [
                 5,
-                9
+                9,
+                5
             ]
         }
     },
@@ -641,6 +692,7 @@
                 9
             ],
             "Cooperation": [
+                5,
                 5,
                 5,
                 5,
@@ -676,9 +728,11 @@
                 5,
                 5,
                 5,
+                5,
                 5
             ],
             "Humility": [
+                5,
                 5,
                 5,
                 5,
@@ -731,7 +785,9 @@
                 0,
                 5
             ],
-            "Cooperation": [],
+            "Cooperation": [
+                5
+            ],
             "Dedication": [
                 5,
                 5,
@@ -761,6 +817,7 @@
                 5,
                 1,
                 10,
+                5,
                 5
             ],
             "Ideas": [
@@ -783,7 +840,9 @@
                 2,
                 3
             ],
-            "Leadership": [],
+            "Leadership": [
+                5
+            ],
             "Motivation": [
                 5,
                 5,
@@ -797,6 +856,7 @@
                 5,
                 4,
                 10,
+                5,
                 5
             ],
             "Presentation Skills": [
@@ -816,6 +876,7 @@
                 5,
                 8,
                 8,
+                5,
                 5
             ],
             "Teamwork": [
@@ -828,6 +889,7 @@
                 5,
                 5,
                 0,
+                5,
                 5
             ]
         }
@@ -852,12 +914,15 @@
                 2,
                 3
             ],
-            "Leadership": [],
+            "Leadership": [
+                5
+            ],
             "Motivation": [
                 5,
                 5,
                 5,
-                0
+                0,
+                5
             ],
             "Organisation": [],
             "Perseverance": [],
@@ -877,7 +942,8 @@
                 1,
                 2,
                 3,
-                9
+                9,
+                5
             ],
             "Time Management": [
                 5,
@@ -905,6 +971,7 @@
                 5,
                 0,
                 5,
+                5,
                 5
             ],
             "Ideas": [],
@@ -914,9 +981,12 @@
                 2,
                 3
             ],
-            "Leadership": [],
+            "Leadership": [
+                5
+            ],
             "Listening Skills": [
                 10,
+                5,
                 5
             ],
             "Motivation": [
@@ -926,6 +996,8 @@
                 0,
                 0,
                 8,
+                5,
+                5,
                 5
             ],
             "Perseverance": [
@@ -933,6 +1005,7 @@
                 5,
                 5,
                 8,
+                5,
                 5,
                 5
             ],
@@ -951,17 +1024,20 @@
                 5,
                 0,
                 5,
+                5,
                 5
             ],
             "Self Awareness": [
                 10,
+                5,
                 5
             ],
             "Teamwork": [
                 1,
                 2,
                 3,
-                0
+                0,
+                5
             ],
             "Time Management": [
                 5,
@@ -992,7 +1068,8 @@
             ],
             "Listening Skills": [
                 9,
-                7
+                7,
+                5
             ],
             "Motivation": [
                 5,
@@ -1000,7 +1077,8 @@
                 5,
                 0,
                 10,
-                4
+                4,
+                5
             ],
             "Perseverance": [],
             "Presentation Skills": [
@@ -1017,7 +1095,8 @@
             ],
             "Self Awareness": [
                 9,
-                2
+                2,
+                5
             ],
             "Teamwork": [
                 1,
@@ -1041,7 +1120,9 @@
             "Communication": [
                 8
             ],
-            "Cooperation": [],
+            "Cooperation": [
+                5
+            ],
             "Creativity": [],
             "Dedication": [],
             "Effort": [],
@@ -1055,10 +1136,14 @@
                 2,
                 3
             ],
-            "Leadership": [],
+            "Leadership": [
+                5,
+                5
+            ],
             "Listening Skills": [
                 8,
-                9
+                9,
+                5
             ],
             "Motivation": [
                 5,
@@ -1067,7 +1152,9 @@
                 0,
                 10,
                 9,
-                7
+                7,
+                5,
+                5
             ],
             "Organisation": [],
             "Perseverance": [],
@@ -1076,7 +1163,8 @@
                 5
             ],
             "Problem Solving": [
-                10
+                10,
+                5
             ],
             "Reliability": [],
             "Resilience": [
@@ -1085,20 +1173,25 @@
             ],
             "Self Awareness": [
                 10,
-                2
+                2,
+                5
             ],
             "Teamwork": [
                 1,
                 2,
                 3,
                 7,
-                10
+                10,
+                5,
+                5
             ],
             "Time Management": [
                 5,
                 5,
                 5,
-                0
+                0,
+                5,
+                5
             ]
         }
     },
@@ -1108,7 +1201,9 @@
         "Ratings": {
             "Collaboration": [],
             "Communication": [],
-            "Cooperation": [],
+            "Cooperation": [
+                5
+            ],
             "Dedication": [],
             "Effort": [],
             "Focus": [],
@@ -1117,6 +1212,7 @@
                 5,
                 5,
                 8,
+                5,
                 5
             ],
             "Ideas": [],
@@ -1126,8 +1222,12 @@
                 2,
                 3
             ],
-            "Leadership": [],
+            "Leadership": [
+                5,
+                5
+            ],
             "Listening Skills": [
+                5,
                 5
             ],
             "Motivation": [
@@ -1135,6 +1235,8 @@
                 5,
                 5,
                 0,
+                5,
+                5,
                 5
             ],
             "Perseverance": [
@@ -1142,13 +1244,16 @@
                 5,
                 5,
                 8,
+                5,
                 5
             ],
             "Presentation Skills": [
                 5,
                 5
             ],
-            "Problem Solving": [],
+            "Problem Solving": [
+                5
+            ],
             "Reliability": [],
             "Resilience": [
                 5,
@@ -1159,21 +1264,27 @@
                 5,
                 5,
                 10,
+                5,
                 5
             ],
             "Self Awareness": [
+                5,
                 5
             ],
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                5,
+                5
             ],
             "Time Management": [
                 5,
                 5,
                 5,
-                0
+                0,
+                5,
+                5
             ]
         }
     }
