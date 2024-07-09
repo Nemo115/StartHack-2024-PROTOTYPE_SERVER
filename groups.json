@@ -220,6 +220,22 @@
             "4"
         ]
     },
+    "22": {
+        "GroupID": "22",
+        "GroupName": "Science Group 5",
+        "GroupQualities": [
+            "Leadership",
+            "Cooperation",
+            "Motivation"
+        ],
+        "Members": [
+            "1",
+            "12",
+            "8",
+            "3",
+            "4"
+        ]
+    },
     "3": {
         "GroupID": "3",
         "GroupName": "Pancake Group",
