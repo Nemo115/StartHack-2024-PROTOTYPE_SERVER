@@ -127,8 +127,12 @@
                 2,
                 3
             ],
-            "Listening Skills": [],
-            "Motivation": [],
+            "Listening Skills": [
+                2
+            ],
+            "Motivation": [
+                2
+            ],
             "Organisation": [],
             "Presentation Skills": [
                 10,
@@ -140,7 +144,9 @@
                 0,
                 5
             ],
-            "Self Awareness": [],
+            "Self Awareness": [
+                10
+            ],
             "Teamwork": [
                 1,
                 2,
@@ -175,7 +181,9 @@
                 5,
                 5
             ],
-            "Communication": [],
+            "Communication": [
+                10
+            ],
             "Cooperation": [
                 0,
                 5,
@@ -268,7 +276,8 @@
                 5,
                 5,
                 0,
-                5
+                5,
+                10
             ],
             "Perseverance": [],
             "Problem Solving": [],
@@ -276,7 +285,8 @@
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                0
             ],
             "Time Management": [
                 9,
@@ -301,6 +311,7 @@
                 10
             ],
             "Humility": [
+                8,
                 8
             ],
             "Ideas": [],
@@ -313,14 +324,18 @@
             "Leadership": [
                 10
             ],
-            "Listening Skills": [],
+            "Listening Skills": [
+                9
+            ],
             "Motivation": [
                 5,
                 5,
                 5,
-                0
+                0,
+                10
             ],
             "Perseverance": [
+                10,
                 10
             ],
             "Presentation Skills": [
@@ -334,9 +349,12 @@
                 5
             ],
             "Respect": [
-                9
+                9,
+                10
             ],
-            "Self Awareness": [],
+            "Self Awareness": [
+                10
+            ],
             "Teamwork": [
                 1,
                 2,
@@ -356,8 +374,12 @@
         "Name": "Michael Madsen",
         "Ratings": {
             "Collaboration": [],
-            "Communication": [],
-            "Cooperation": [],
+            "Communication": [
+                10
+            ],
+            "Cooperation": [
+                10
+            ],
             "Creativity": [],
             "Dedication": [],
             "Effort": [],
@@ -381,18 +403,23 @@
                 5
             ],
             "Motivation": [
-                0
+                0,
+                10,
+                10
             ],
             "Organisation": [],
             "Perseverance": [],
             "Presentation Skills": [],
-            "Reliability": [],
+            "Reliability": [
+                10
+            ],
             "Resilience": [],
             "Teamwork": [
                 5,
                 5,
                 5,
-                5
+                5,
+                10
             ],
             "Time Management": []
         }
@@ -414,7 +441,8 @@
             "Humility": [
                 8,
                 5,
-                5
+                5,
+                10
             ],
             "Ideas": [],
             "Initiative": [],
@@ -430,7 +458,8 @@
             "Perseverance": [
                 10,
                 5,
-                5
+                5,
+                10
             ],
             "Presentation Skills": [],
             "Reliability": [],
@@ -438,7 +467,8 @@
             "Respect": [
                 9,
                 5,
-                5
+                5,
+                8
             ],
             "Self Awareness": [],
             "Teamwork": [
@@ -468,8 +498,12 @@
                 5,
                 9
             ],
-            "Communication": [],
-            "Cooperation": [],
+            "Communication": [
+                10
+            ],
+            "Cooperation": [
+                10
+            ],
             "Dedication": [
                 7,
                 5,
@@ -527,15 +561,20 @@
                 3
             ],
             "Motivation": [
-                5
+                5,
+                8,
+                10
             ],
             "Presentation Skills": [],
-            "Reliability": [],
+            "Reliability": [
+                10
+            ],
             "Resilience": [],
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                10
             ],
             "Time Management": [
                 5
@@ -546,7 +585,9 @@
         "ID": "3",
         "Name": "Lucy Kent",
         "Ratings": {
-            "Communication": [],
+            "Communication": [
+                9
+            ],
             "Cooperation": [
                 5,
                 5,
@@ -608,13 +649,16 @@
                 2,
                 3
             ],
-            "Motivation": [],
+            "Motivation": [
+                7
+            ],
             "Perseverance": [],
             "Reliability": [],
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                7
             ]
         }
     },
@@ -658,7 +702,8 @@
                 0,
                 5,
                 5,
-                1
+                1,
+                10
             ],
             "Ideas": [
                 1,
@@ -691,7 +736,8 @@
                 10,
                 5,
                 5,
-                4
+                4,
+                10
             ],
             "Presentation Skills": [
                 5,
@@ -708,6 +754,7 @@
                 0,
                 5,
                 5,
+                8,
                 8
             ],
             "Teamwork": [
@@ -734,7 +781,9 @@
             "Creativity": [],
             "Dedication": [],
             "Effort": [],
-            "Focus": [],
+            "Focus": [
+                9
+            ],
             "Ideas": [],
             "Initiative": [],
             "Leader": [
@@ -754,7 +803,9 @@
                 5,
                 5
             ],
-            "Problem Solving": [],
+            "Problem Solving": [
+                9
+            ],
             "Reliability": [],
             "Resilience": [
                 5,
@@ -763,7 +814,8 @@
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                9
             ],
             "Time Management": [
                 5,
@@ -778,7 +830,9 @@
         "Name": "Klaus Kinski",
         "Ratings": {
             "Collaboration": [],
-            "Communication": [],
+            "Communication": [
+                0
+            ],
             "Cooperation": [],
             "Dedication": [],
             "Effort": [],
@@ -787,7 +841,8 @@
                 10,
                 5,
                 5,
-                0
+                0,
+                5
             ],
             "Ideas": [],
             "Initiative": [],
@@ -796,18 +851,23 @@
                 2,
                 3
             ],
-            "Listening Skills": [],
+            "Listening Skills": [
+                10
+            ],
             "Motivation": [
                 5,
                 5,
                 5,
-                0
+                0,
+                0,
+                8
             ],
             "Perseverance": [
                 10,
                 5,
                 5,
-                8
+                8,
+                5
             ],
             "Presentation Skills": [
                 5,
@@ -822,13 +882,17 @@
                 9,
                 5,
                 5,
-                0
+                0,
+                5
             ],
-            "Self Awareness": [],
+            "Self Awareness": [
+                10
+            ],
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                0
             ],
             "Time Management": [
                 5,
@@ -847,7 +911,9 @@
             "Cooperation": [],
             "Dedication": [],
             "Effort": [],
-            "Focus": [],
+            "Focus": [
+                3
+            ],
             "Ideas": [],
             "Initiative": [],
             "Leader": [
@@ -855,29 +921,37 @@
                 2,
                 3
             ],
-            "Listening Skills": [],
+            "Listening Skills": [
+                9
+            ],
             "Motivation": [
                 5,
                 5,
                 5,
-                0
+                0,
+                10
             ],
             "Perseverance": [],
             "Presentation Skills": [
                 5,
                 5
             ],
-            "Problem Solving": [],
+            "Problem Solving": [
+                8
+            ],
             "Reliability": [],
             "Resilience": [
                 5,
                 5
             ],
-            "Self Awareness": [],
+            "Self Awareness": [
+                9
+            ],
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                10
             ],
             "Time Management": [
                 5,
@@ -892,11 +966,15 @@
         "Name": "Wong Kar Wai",
         "Ratings": {
             "Collaboration": [],
-            "Communication": [],
+            "Communication": [
+                8
+            ],
             "Creativity": [],
             "Dedication": [],
             "Effort": [],
-            "Focus": [],
+            "Focus": [
+                1
+            ],
             "Ideas": [],
             "Initiative": [],
             "Leader": [
@@ -904,12 +982,16 @@
                 2,
                 3
             ],
-            "Listening Skills": [],
+            "Listening Skills": [
+                8
+            ],
             "Motivation": [
                 5,
                 5,
                 5,
-                0
+                0,
+                10,
+                9
             ],
             "Organisation": [],
             "Perseverance": [],
@@ -917,17 +999,23 @@
                 5,
                 5
             ],
-            "Problem Solving": [],
+            "Problem Solving": [
+                10
+            ],
             "Reliability": [],
             "Resilience": [
                 5,
                 5
             ],
-            "Self Awareness": [],
+            "Self Awareness": [
+                10
+            ],
             "Teamwork": [
                 1,
                 2,
-                3
+                3,
+                7,
+                10
             ],
             "Time Management": [
                 5,
